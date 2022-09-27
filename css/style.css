@@ -1,0 +1,72 @@
+header{
+    height: 100px;
+    background-color: rgb(245, 10, 10);
+    border-bottom: 15px solid rgb(24, 12, 196);
+    padding: 20px;
+    clear: both;
+}
+.img{
+    width: 100px;
+    height: 100px;
+}
+.imgg{
+    width: 500px;
+    height: 500px;
+}
+.imggg{
+    width: 400px;
+    height: 400px;
+}
+.imag{
+    width: 350px;
+    height: 350px;
+}
+body{
+    background-color: rgb(190, 31, 31);
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+section{
+    padding: 20px;
+    text-align: center;
+}
+footer{
+    height: 100px;
+    clear: both;
+    padding: 20px;
+    background-color: rgb(245, 10, 10);
+    border: 15px solid rgb(24, 12, 196);
+    
+} 
+.product{
+    width: 30%;
+}
+.product img{
+    max-width: 100px;
+    
+}
+nav{
+    clear: both;
+    height: 12px;
+    background-color: rgb(245, 10, 10);
+    border-bottom: 15px solid rgb(24, 12, 196);
+    padding: 20px;
+}
+#container{
+    background-color: rgb(190, 31, 31);
+}
+.card{
+    width: 50%;
+    height: 550px;
+    background-color: rgb(224, 233, 225);
+    float: left;
+     
+}
+.cardd{
+    width: 25%;
+    height: 570px;
+    background-color: rgb(190, 31, 31);
+    float: left;
+    
+}
